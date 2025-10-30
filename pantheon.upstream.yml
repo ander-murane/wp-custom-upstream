@@ -5,6 +5,7 @@
 api_version: 1
 php_version: 8.3
 php_runtime_generation: 2
+#wp-cu
 # See https://pantheon.io/docs/pantheon-yml#specify-a-version-of-mariadb
 database:
   version: 10.4
